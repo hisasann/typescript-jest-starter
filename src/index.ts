@@ -2,7 +2,7 @@ type Hoge = {
   foo: string;
 }
 
-const hoge: Hoge = {
+export const hoge: Hoge = {
   foo: 'foo'
 };
 
